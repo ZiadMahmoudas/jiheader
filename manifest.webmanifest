@@ -1,0 +1,13 @@
+{
+  "name": "Smart Kiosk Management System",
+  "short_name": "Smart Kiosk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100719",
+  "theme_color": "#f252b5",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

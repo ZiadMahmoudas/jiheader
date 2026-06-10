@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-n5LQ9ujS.js";var t=`/assets/logo-DMknvHDe.png`,n=e();function r({className:e=``}){return(0,n.jsx)(`div`,{className:`flex items-center gap-2 ${e}`,children:(0,n.jsx)(`img`,{src:t,alt:`ASKAI by Zeks`,className:`h-10 w-auto object-contain`})})}export{r as t};

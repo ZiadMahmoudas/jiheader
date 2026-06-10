@@ -1,0 +1,1 @@
+var e=e=>`https://picsum.photos/seed/${e}/600/600`;e(`headphones1`),e(`watch1`),e(`phone1`),e(`shoes1`),e(`bag1`),e(`perfume1`),e(`camera1`),e(`chair1`),e(`skin1`),e(`ball1`),e(`toy1`),e(`book1`),e(`coffee1`),e(`glasses1`),e(`controller1`),e(`oil1`);var t=e=>`${e.toLocaleString(`ar-EG`)} ر.س`;export{t};
